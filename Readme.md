@@ -31,5 +31,7 @@
 '''
 7. 開啟資料庫 (xamapp or heidsql)
 
-8. Final Result (gif)
-![gif](2022-06-17%2023-02-32.gif)
+8. 執行app.py 
+
+9. Final Result (gif)
+![image](2022-06-17%2023-02-32.gif)
