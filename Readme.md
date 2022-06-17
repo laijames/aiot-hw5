@@ -1,13 +1,13 @@
-# Huan Chen's Homework #5 (Python Flask)
+# Lai's Homework #5 (Python Flask)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
 ### Step 1 : Development Environment Setup
-1. Please install vs code, register github, install git for windows
-2. (check-point 1) github create a new repository (aiot0524)
+1. Please install vs code, register github, install git for windows(已安裝可省略)
+2. (check-point 1) github create a new repository (aiot-hw5)
 3. go to vs code clone this repository (choose new branch) 
-4. vs code 安裝 python extension 
-5. pip install flask, pandas, sklearn 
+4. vs code 安裝 python extension (已安裝可省略)
+5. pip install flask, pandas, sklearn (已安裝可省略)
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
   * 快捷鍵 ctrl+' ==> 叫出終端機 
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
@@ -29,9 +29,7 @@
 
   git push -u origin master
 '''
-7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+7. 開啟資料庫 (xamapp or heidsql)
 
-8. Final Result no AI
-![noAI](noAI.jpg)
-9 Final Result with AI @300 threshold
-![AI](AI.jpg)
+8. Final Result (gif)
+![gif](2022-06-17%2023-02-32.gif)
