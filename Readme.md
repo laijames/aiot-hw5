@@ -30,8 +30,9 @@
   git push -u origin master
 '''
 7. 開啟資料庫 (xamapp or heidsql)
+8. app.py 更改資料庫資料
+![image](1.jpg)
+9. 執行app.py ()
 
-8. 執行app.py 
-
-9. Final Result (gif)
+10. Final Result (gif)
 ![image](2022-06-17%2023-02-32.gif)
